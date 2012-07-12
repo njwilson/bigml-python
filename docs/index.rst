@@ -52,6 +52,13 @@ from the Git repository::
 
     $ pip install -e git://github.com/bigmlcom/python.git#egg=bigml_python
 
+API Reference
+-------------
+
+See the :ref:`api` page if you want details on the interface provided by
+these bindings. Otherwise, continue reading for a higher-level tutorial
+showing the common uses.
+
 Importing the module
 --------------------
 
